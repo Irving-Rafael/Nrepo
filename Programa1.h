@@ -6,6 +6,7 @@
 #include<stdio.h>
 int programa1()
 {
+	
     int n1, resultado;
     printf("Digite su monto total\n");
     scanf("%i",&n1);
