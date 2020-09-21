@@ -9,7 +9,6 @@ int i;
 int ciclo;
 int main(){
 	int opc;
-	printf("Hola");
 	printf("Bienvenido al menu de opciones");
 	printf("\nTenemos en existencia los siguientes elementos: ");
 	printf("\n1.- Pluma Bic  2.-Regla de aluminio");
